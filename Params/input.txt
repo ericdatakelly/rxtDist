@@ -1,0 +1,16 @@
+Input for heterogeneity parameters
+Yes or no questions should be assigned '1' for yes or '0' for no.
+Distribution types (choose from these, exactly): uniformLayers, randomLayers, uniformBlocks, randomBlocks
+Distribution type							:randomBlocks
+heterogeneityLengthX							:2
+heterogeneityLengthY							:10
+heterogeneityLengthZ							:5
+hetRandomSeed (0 = generate new)					:0
+The parameters below only apply to uniform layers, blocks, and ellipsiods
+fixedGapX								:1
+fixedGapY								:2
+fixedGapZ								:3
+Set new default reactant concentration (or keep params value)?		:0
+new default reactant concentration (g/cm^3)				:1.25
+Set new fixed heterogeneity rxt conc (or keep params value)?		:0
+new rxt conc for heterogeneities					:0.15

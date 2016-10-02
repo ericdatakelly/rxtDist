@@ -1,0 +1,67 @@
+Crystallize 1.4
+Run name:							PM3_140717_1437test
+Result file directory:						runsPM3\PM3_140717_1437test
+Reporting interval (years):					5.00E+05
+Fractional porosity (0-1):					1.00E+02
+Tortuosity (0-1):						1.0
+Activation energy for diffusion (kJ/mol):			140
+Dinf (cm^2/s):							2.00E-06
+Al concentration in fluid in eq with CAP (moles/cm^3):		5.60E-07
+Nucleation acceleration (dimensionless):			2.00E-01
+Nucleation rate at infinite overstepping (nuclei/s/cm^3):	1.50E-13
+Nucleation proportional to CAR amount in voxel (0=no,1=yes):	0
+Maximum number of porphyroblasts (0=unlimited):			0
+Maximum modal amount of product (0=limited by reactant amount):	0
+Al content of CAR (moles Al/moles CAR):				2.25
+Avg. formula weight of CAR (g CAR / mol CAR):			679.770
+Al content of CAP (moles Al/moles CAP):				2.25
+Avg. formula weight of CAP (g CAP / mol CAP):			625.725
+Density of CAP (g/cm^3):					4.07
+Voxel edge length (cm):						0.014
+Time step (yr):							2000
+Number of voxels in X:						141
+Number of voxels in Y:						141
+Number of voxels in Z:						141
+Dimensions:							3
+Default CAR amount (g/cm^3 rock):				0.000000
+**** Reactant distribution: One header line, then one line per layer ****
+Number of structures (0=homogeneous):				29
+Block (see format codes)					2	0	10	31	15	50	91	0.100000
+Block (see format codes)					2	12	12	103	32	52	140	0.100000
+Block (see format codes)					2	14	79	86	34	119	140	0.100000
+Block (see format codes)					2	14	83	61	34	123	121	0.100000
+Block (see format codes)					2	19	90	23	39	130	83	0.100000
+Block (see format codes)					2	32	133	65	52	140	125	0.100000
+Block (see format codes)					2	49	31	40	69	71	100	0.100000
+Block (see format codes)					2	50	91	33	70	131	93	0.100000
+Block (see format codes)					2	58	47	61	78	87	121	0.100000
+Block (see format codes)					2	59	27	16	59	47	56	0.100000
+Block (see format codes)					2	67	60	88	87	100	140	0.100000
+Block (see format codes)					2	69	65	1	89	105	61	0.100000
+Block (see format codes)					2	70	79	107	90	119	140	0.100000
+Block (see format codes)					2	75	41	69	95	81	129	0.100000
+Block (see format codes)					2	80	73	40	100	113	100	0.100000
+Block (see format codes)					2	81	104	58	101	140	118	0.100000
+Block (see format codes)					2	85	49	91	105	89	140	0.100000
+Block (see format codes)					2	86	24	33	102	60	89	0.100000
+Block (see format codes)					2	87	119	132	107	140	140	0.100000
+Block (see format codes)					2	89	55	95	109	95	140	0.100000
+Block (see format codes)					2	93	131	29	113	140	89	0.100000
+Block (see format codes)					2	94	126	70	114	140	130	0.100000
+Block (see format codes)					2	113	26	35	133	66	95	0.100000
+Block (see format codes)					2	115	49	82	117	71	122	0.100000
+Block (see format codes)					2	122	23	106	140	63	140	0.100000
+Block (see format codes)					2	123	107	36	140	140	96	0.100000
+Block (see format codes)					2	130	7	51	140	47	111	0.100000
+Block (see format codes)					2	130	74	77	140	114	137	0.100000
+Block (see format codes)					2	133	59	124	140	99	140	0.100000
+FD approximation source/sink parameter (dimensionless):		200
+Subvoxel growth acceleration factor (dimensionless, 0=none):	2.8284
+Random seed (0=generate new):					-1717
+Volume fraction of porphyroblast in CAP assemblage (fv):	0.7490
+Number of moles of porphyroblast in reaction equation (moles):	1.0
+Concentration to delGrxn conversion power-law factor n:		1.4415
+Free energy specification mode (0=thermo, 1=delGrxn path):	1
+Equilibrium temperature used for G-C conversion (°C):		529.55
+Number of Time-Temp-DelGrxn triplets:				3
+DelGrxn path (Myr after start,°C,kJ/mol):	(0.0,435.0,-0.0001)	(10.0,535.0,-19.0582)	(30.0,535.0,-20.1369)
